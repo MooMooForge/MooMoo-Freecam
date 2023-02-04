@@ -1,2 +1,18 @@
-# MooMoo.io-Freecam
-A utility script that lets you move around freely and fast!
+# MooMoo.io Freecam Script
+A UserScript that lets you move around freely in the game MooMoo.io.
+
+## Usage
+1. Type "/toggleFreecam" into chat to toggle the freecam.
+2. Use the 'WASD' keys to move around freely and fast.
+
+## Support
+For support, follow and leave a star on our social media:
+
+
+- GitHub: https://moomooforge.github.io/MooMoo.js/
+- Author: https://github.com/NuroC
+- YouTube: https://www.youtube.com/@nuro9607
+- Discord: https://discord.gg/NMS3YR9Q5R
+
+## How it works
+The script updates the player's walking position and speed when certain keys are pressed and toggles the freecam when the "/toggleFreecam" command is typed into chat. The walking data is intercepted and manipulated to simulate movement.
