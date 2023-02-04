@@ -1,7 +1,11 @@
 # MooMoo.io Freecam Script
 A UserScript that lets you move around freely in the game MooMoo.io.
 
-## Installation
+<a href="https://imgur.com/ZoPxGAj"><img src="https://i.imgur.com/ZoPxGAj.gif" title="source: imgur.com" /></a>
+
+**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/459409-moomoo-io-freecam)**
+
+## How to Install
 1. Go to the newest releases page [click here](https://github.com/MooMooForge/MooMoo.io-Freecam/releases/latest)
 2. Click on the link given there.
 3. Install the script from greasyfork
